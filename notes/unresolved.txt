@@ -5,7 +5,6 @@
 AppendLangExt(char (&) [255], LocaleMasks) | mysteryphraze.so
 t_i_l() | mysteryphraze.so
 SystemClass::Delay(int) | mysteryphraze.so
-HighScoresManager::PlayerName(int) | mysteryphraze.so
 USBIO::FoundUSB() | mysteryphraze.so
 NVRAMMap::SetGameOption(xml_gameoptions::GameOptionIndex, unsigned char) | mysteryphraze.so
 _alemu_strupr | mysteryphraze.so
